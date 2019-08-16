@@ -1,3 +1,3 @@
-window.onload(function () {
+window.onload = function () {
     document.getElementById('main-content').innerHTML = 'Hellow Zake'
-})
+}
